@@ -209,3 +209,17 @@
 *://*.ari-alba.it/*
 *://*.amtrusteurope.it/*
 *://saveanimalsnow.com/*
+*://*.amipaesaggioecultura.it/*
+*://*.arcivasto.it/*
+*://*.losatriathlonchiavari.it/*
+*://*.dexilo.it/*
+*://*.kolorserwis.com.pl/*
+*://police-art.com/*
+*://gedradahzi.hatenablog.jp/*
+*://trafopmece.hatenablog.com/*
+*://*.annuncidilavoroperdisabili.it/*
+*://*.colleonitappezziere.it/*
+*://*.gaspalermo.it/*
+*://*.chiesedisandonato.it/*
+*://*.artcafeadv.it/*
+*://opj.ics.ulisboa.pt/*

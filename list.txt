@@ -48,6 +48,8 @@
 *://www.chillsurrealism.com/journal/*
 *://sites.google.com/site/lkduc3lt/*
 *://www.nacore.it/site/*
+*://www.archiviolavoro.it/docs/*
+*://www.musca.it/journal/*
 
 
 *://*.donklimat.info/*
@@ -2704,7 +2706,5 @@
 *://*.libertaedemocrazia.it/*
 *://*.giuliolevikinesiologia.it/*
 *://*.diarionet.it/*
-*://www.archiviolavoro.it/docs/*
-*://www.musca.it/journal/*
 *://*.solstella.it/*
 *://*.bobineromano.it/*

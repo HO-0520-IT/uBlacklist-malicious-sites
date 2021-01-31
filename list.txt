@@ -29,6 +29,7 @@
 *://*/wp-admin/*
 *://*/*db-cache.php*
 *://*/*wp-conflg.php*
+*://*/*wp-config-maps.php*
 
 
 *://antaresindonesia.com/journal/*
@@ -3415,3 +3416,27 @@
 *://*.beshtayhotel.ru/*
 *://*.leute79.0j0.jp/*
 *://*.arys46loy.server-on.net/*
+*://*.minutemagazine.ru/*
+*://*.mirteatr.ru/*
+*://*.banki11.ru/*
+*://*.igundegesdi.ga/*
+*://*.wawofquikcurterpo.tk/*
+*://*.sioreatchoikowdiemet.tk/*
+*://*.tecnoanteremidwhit.tk/*
+*://*.tipscarfaitomse.tk/*
+*://*.keopurtupares.tk/*
+*://*.roudtorocata.tk/*
+*://*.raressicahytho.tk/*
+*://*.lenmyelitratahet.gq/*
+*://*.quoproclodoche.tk/*
+*://*.encalvafobomac.tk/*
+*://*.potni.pcpomoc.si/*
+*://*.egylordqqhd.web.app/*
+*://*.tomatealgo.cl/*
+*://*.ua3slb.ru/*
+*://*.chileanleaks.cl/*
+*://*.lesvtule.ru/*
+*://*.mrslove.com/*
+*://*.dzgutnova.ru/*
+*://*.stapenancapdiru.tk/*
+*://*.kuranghika.onrender.com/*
